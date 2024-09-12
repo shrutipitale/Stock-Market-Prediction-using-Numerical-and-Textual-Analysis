@@ -1,6 +1,6 @@
 # Stock Market Prediction using Numerical and Textual Analysis
 
-This project is a part of The Sparks Foundation GRIP internship and highlights time series analysis of historical stock prices and sentiment analysis of news headlines.
+Time series analysis of historical stock prices and sentiment analysis of news headlines.
 
 ## Datasets
 - **Historical Stock Prices Dataset:** Extracted from [Yahoo Finance](https://finance.yahoo.com/)
